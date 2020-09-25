@@ -18,7 +18,7 @@ npm install
 npm run serve
 
 # Start the server
-npm run run:server
+npm run start
 
 ```
 Then visit http://localhost:8080 in your browser
